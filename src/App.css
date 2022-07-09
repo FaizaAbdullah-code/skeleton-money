@@ -54,6 +54,12 @@ body {
   font-size: 55px;
   line-height: 60px;
 }
+.tokenTitle{
+  color: #cf2626;
+  font-weight: 600;
+  font-size: 55px;
+  line-height: 60px;
+}
 
 .heading{
   color: white;
@@ -162,7 +168,7 @@ body {
       line-height: 40px;
     }
     .fixed{
-      margin-right: 50px;
+      margin-right: 25px;
       width: 100px;
     }
     
@@ -170,17 +176,21 @@ body {
       width: 100%;
     }
     .btn-contract {
-      width: 300px;
+      width: 350px;
       font-size: 15px;
     }
     .address{
-      font-size: 11px;
+      font-size: 13px;
     }
 
     .headingToken{
       font-weight: 600;
       font-size: 20px;
       line-height: 10px;
+    }
+    .tokenTitle{
+      font-weight: 600;
+      font-size: 45px;
     }
   }
   

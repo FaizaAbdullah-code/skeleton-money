@@ -68,7 +68,7 @@ function App() {
 
         <section className="py-5 mt-3">
           <div className="contaier">
-            <h1 className="head my-auto text-center">Tokenomics</h1>
+            <h1 className="tokenTitle my-auto text-center">Tokenomics</h1>
             <div className="row">
               <div className="col-sm-6">
                 <img src={logo} width="20%" height="80%" alt="" className="imgToken mt-4" loading="lazy" />
