@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/skeleton-money/static/css/main.99c0c6ee.css",
-    "main.js": "/skeleton-money/static/js/main.e1567e0f.js",
+    "main.css": "/skeleton-money/static/css/main.de962fc8.css",
+    "main.js": "/skeleton-money/static/js/main.c01f419c.js",
     "static/js/787.e1210345.chunk.js": "/skeleton-money/static/js/787.e1210345.chunk.js",
     "static/media/logo.png": "/skeleton-money/static/media/logo.1d5419264e19cbf20071.png",
     "static/media/telegram.png": "/skeleton-money/static/media/telegram.433216cbf8aaaf7da85a.png",
     "static/media/twitter.png": "/skeleton-money/static/media/twitter.f395f3e002022ef60722.png",
     "index.html": "/skeleton-money/index.html",
-    "main.99c0c6ee.css.map": "/skeleton-money/static/css/main.99c0c6ee.css.map",
-    "main.e1567e0f.js.map": "/skeleton-money/static/js/main.e1567e0f.js.map",
+    "main.de962fc8.css.map": "/skeleton-money/static/css/main.de962fc8.css.map",
+    "main.c01f419c.js.map": "/skeleton-money/static/js/main.c01f419c.js.map",
     "787.e1210345.chunk.js.map": "/skeleton-money/static/js/787.e1210345.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99c0c6ee.css",
-    "static/js/main.e1567e0f.js"
+    "static/css/main.de962fc8.css",
+    "static/js/main.c01f419c.js"
   ]
 }
